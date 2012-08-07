@@ -17,3 +17,6 @@ SeaTerm
 
 # Bin folder
 [b|B]in
+
+# Opened files
+*.swp
