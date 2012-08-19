@@ -1,4 +1,6 @@
 /*
+ * Copyright (C) 2012 Tomas Drbota
+ * 
  * This file is part of Seafloor Terminal.
 
  * Seafloor Terminal is free software: you can redistribute it and/or modify
